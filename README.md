@@ -1,16 +1,20 @@
-## Hi there 👋
+<!-- Banner Inicial -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=6F00BB&section=header&reversal=false&fontAlign=41&fontAlignY=55" width="100%" />
+</p>
 
-<!--
-**lauramorgadobastos/lauramorgadobastos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=700&color=9C1FD2&center=true&vCenter=true&repeat=false&width=990&lines=Ol%C3%A1%2C+seja+bem-vindo(a)!+Eu+sou+Laura)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<!-- Contatos -->
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=fff)]()
+[![Linkedin](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=fff)]()
+[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=fff)]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<!-- Banner Final -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=6F00BB&section=header&reversal=false&fontAlign=41&fontAlignY=55" width="100%" />
+</p>
