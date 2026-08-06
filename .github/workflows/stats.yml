@@ -1,0 +1,24 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    # Atualiza uma vez por dia
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate github stats
+    steps:
+      - uses: actions/checkout@v3
+      
+      # Gera os cards de estatísticas e linguagens
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ SECRETS.METRICS_TOKEN }} # Ou use o GITHUB_TOKEN padrão
+          user: SEU-USUARIO
+          template: classic
+          base: header, activity, community, repositories, metadata
+          plugins_bytes_limit: 100
