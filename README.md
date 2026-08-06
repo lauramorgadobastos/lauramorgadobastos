@@ -12,7 +12,7 @@
 </div>
 
 <p align="center" >
- Estou cursando atualmente o segundo período e meu principal objetivo é construir uma base sólida na área de desenvolvimento de software, expandindo meu conhecimento lógico e prático. Para isso, no momento estou focando meus estudos na linguagens SQL e C#, na logica de programação e no desenvolvimento back-end. Estou sempre em busca de novos aprendizados e desafios para evoluir cada vez mais na programação
+ Estou cursando o segundo período, atualmente meu principal objetivo é construir uma base sólida na área de desenvolvimento de software, expandindo meu conhecimento lógico e prático. Para isso, no momento estou focando meus estudos na linguagens SQL e C#, na logica de programação e no desenvolvimento back-end. Estou sempre em busca de novos aprendizados e desafios para evoluir cada vez mais na programação
 
 </p>
 
@@ -26,7 +26,9 @@
   <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
   <img align="center" alt="NodeJS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
   <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Figma" height="40" width="40" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="VSCode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
@@ -47,7 +49,7 @@
 <div align="center">
   
 [![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:laura.bastosmorgado27@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/laura-morgado-498b82274?)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/laura-morgado-bastos?)
 [![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/lauramorgadobastos)
 
 </div>
