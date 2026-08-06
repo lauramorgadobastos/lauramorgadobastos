@@ -10,11 +10,8 @@
 </p>
 
 </div>
-<h2>Sobre mim</h2>
+<h2></h2>
 
- - Atualmente estou aprendendo e desenvolvendo projetos acadêmicos e pessoais.
-  
- - Meu foco é evoluir minhas habilidades em desenvolvimento de software e tecnologia. 
 
  <br>
 
@@ -33,20 +30,25 @@
 </div>
 </div>
 <br>
-<!-- Contatos -->
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=fff)]()
-[![Linkedin](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=fff)]()
-[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=fff)]()
-
-</div>
-
+<h2></h2>
+<!-- Animação -->
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lauramorgadobastos/lauramorgadobastos/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lauramorgadobastos/lauramorgadobastos/output/github-contribution-grid-snake-dark.svg"> 
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lauramorgadobastosa/lauramorgadobastos/output/github-contribution-grid-snake.svg">
 </picture>
+
+<!-- Contatos -->
+<br> 
+<br> 
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=fff)]()
+[![Linkedin](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/laura-morgado-498b82274?)
+[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/lauramorgadobastos)
+
+</div>
+
 
 <!-- Banner Final -->
 <p align="center">
