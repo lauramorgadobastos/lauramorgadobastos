@@ -18,7 +18,7 @@ jobs:
         with:
           filename: metrics.svg
           token: ${{ SECRETS.METRICS_TOKEN }} # Ou use o GITHUB_TOKEN padrão
-          user: SEU-USUARIO
+          user: lauramorgadobastos
           template: classic
           base: header, activity, community, repositories, metadata
           plugins_bytes_limit: 100
