@@ -3,7 +3,21 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=6F00BB&section=header&reversal=false&fontAlign=41&fontAlignY=55" width="100%" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=700&color=9C1FD2&center=true&vCenter=true&repeat=false&width=990&lines=Ol%C3%A1%2C+seja+bem-vindo(a)!+Eu+sou+Laura)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=600&size=22&pause=1000&color=9C1FD2&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+seja+bem-vindo(a)!+Me+chamo+Laura;Sou+estudante+de+Sistemas+de+Informação;Obrigada+por+visitar+meu+perfil!" alt="Typing SVG" />
+  </a>
+</p>
+
+</div>
+<h2>Sobre mim</h2>
+
+ - Atualmente estou aprendendo e desenvolvendo projetos acadêmicos e pessoais.
+  
+ - Meu foco é evoluir minhas habilidades em desenvolvimento de software e tecnologia. 
+
+ <br>
+
 
 <!-- Tecnologias  -->
 <div align="center">
@@ -30,5 +44,5 @@
 
 <!-- Banner Final -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=6F00BB&section=header&reversal=false&fontAlign=41&fontAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=6F00BB&section=footer&reversal=false&fontAlign=41&fontAlignY=55" width="100%" />
 </p>
