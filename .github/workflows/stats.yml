@@ -16,20 +16,24 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.svg
           
-          # Exibe apenas o  nome e um cabeçalho simples
-          base: header
+          # Remove o cabeçalho padrão (que traz a foto e seguidores)
+          base: ""
           
-          # Módulo de Estatísticas (Commits, PRs, Estrelas)
+          # Adiciona um título customizado com o seu nome dentro do SVG
+          plugin_introduction: yes
+          plugin_introduction_title: Laura Morgado
+
+          # Módulo de Estatísticas (Commits, PRs, Estrelas, Repositórios)
           plugin_lines: yes
+          plugin_notable: yes
           
           # Módulo de Linguagens 
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 6
-         
+    
 
-          # Configurações de Cores e Estilo
-          config_timezone: America/Sao_Paulo
+          # Estilização e Cores em Roxo/Dark
           style_preset: markdown
           extras_css: |
             svg {
