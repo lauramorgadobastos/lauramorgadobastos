@@ -42,6 +42,12 @@
 
 </div>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lauramorgadobastos/lauramorgadobastos/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lauramorgadobastos/lauramorgadobastos/output/github-contribution-grid-snake-dark.svg"> 
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lauramorgadobastosa/lauramorgadobastos/output/github-contribution-grid-snake.svg">
+</picture>
+
 <!-- Banner Final -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=6F00BB&section=footer&reversal=false&fontAlign=41&fontAlignY=55" width="100%" />
