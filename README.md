@@ -5,6 +5,20 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=700&color=9C1FD2&center=true&vCenter=true&repeat=false&width=990&lines=Ol%C3%A1%2C+seja+bem-vindo(a)!+Eu+sou+Laura)](https://git.io/typing-svg)
 
+<!-- Tecnologias  -->
+<div align="center">
+
+<div style="display: inline_block">
+  <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="NodeJS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Figma" height="40" width="40" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="VSCode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+</div>
+</div>
+<br>
 <!-- Contatos -->
 <div align="center">
   
