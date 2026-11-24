@@ -36,13 +36,17 @@
 <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 <img align="center" alt="VSCode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 
-
-  
+ 
 </div>
 </div>
 <br>
 
 <h2></h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lauramorgadobastos&show_icons=true&hide_border=true&title_color=9C1FD2&icon_color=9C1FD2&text_color=E6EDF3&bg_color=00000000&include_all_commits=true&count_private=false" height="170" alt="Estatísticas da Laura" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauramorgadobastos&hide_border=true&title_color=9C1FD2&text_color=E6EDF3&bg_color=00000000&layout=compact&hide=html,css" height="190" alt="Linguagens mais usadas" />
+</div>
 
 <!-- Animação -->
 <picture align="center">
@@ -55,22 +59,13 @@
 
 <br />
 
-> **[StockFlow ERP](https://github.com/lauramorgadobastos/mini-erp-dotnet-react)** Sistema full-stack em monorepo com API em **.NET** e front-end em **React, TypeScript e Bootstrap** para gestão de produtos, movimentações de estoque, lançamentos financeiros e dashboard operacional. Conta com banco **MySQL**, Docker, *pipelines* de **CI/CD** no GitHub Actions e documentação técnica completa.
+> **[StockFlow ERP](https://github.com/lauramorgadobastos/mini-erp-dotnet-react)** Sistema full-stack com API em **.NET** e front-end em **React, TypeScript e Bootstrap** para gestão de produtos, movimentações de estoque, lançamentos financeiros e dashboard operacional. Conta com banco **MySQL**, Docker, *pipelines* de **CI/CD** no GitHub Actions e documentação técnica completa.
 
 >  **[Sistema de Gestão com AI (v1.0)](https://github.com/lauramorgadobastos/agenda-ia)**
 > Aplicação web fullstack integrada à **Google Gemini API** para assistência e automação inteligente no cadastro de dados. Conta com banco de dados **MySQL**, pipeline de **CI/CD via GitHub Actions** e documentação técnica completa.
 
->  <strong><a href="https://github.com/lauramorgadobastos/poo-javascript-lab">Programação Orientada a Objetos em JavaScript</a></strong>
-> Projeto dedicado ao domínio de POO moderna no JavaScript, explorando classes, herança, encapsulamento, abstração e manipulação de objetos no ecossistema web.
-
->  **[Estruturas de Dados: Listas, Pilhas e Filas](https://github.com/lauramorgadobastos/listas-pilhas-filas-csharp)**
-> Aplicação de conceitos de Orientação a Objetos e implementação de estruturas de dados (listas, pilhas e filas).
-
->  **[Sistema de Estacionamento Circular](https://github.com/lauramorgadobastos/estacionamento-lista-circular)**
-> Implementação prática e estruturada de TADs (Tipos Abstratos de Dados) e lógica avançada, simulando o controle dinâmico de vagas em um estacionamento com estrutura circular.
-
->  **[Algoritmos e Técnicas de Programação (ATP)](https://github.com/lauramorgadobastos/algoritmos-e-tecnicas-de-programacao-puc)**
-> Repositório consolidado com a base de algoritmos e lógica de programação do 1º período, desenvolvendo o raciocínio computacional e os fundamentos em C#.
+>  **[Torre de Hanói Interativa](https://github.com/lauramorgadobastos/torre-de-hanoi-python)**
+> Implementação interativa em linha de comando do clássico jogo de lógica e recursão. Utilizando Python, Pytest, GitHub Actions.
 
 <!-- Contatos -->
 <br> 
