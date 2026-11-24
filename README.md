@@ -27,12 +27,12 @@
   <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" alt="Bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="NodeJS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="C#"  height="40" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="Bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-<img align="center" alt="Figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
 <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 <img align="center" alt="VSCode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 
@@ -55,6 +55,8 @@
 
 <br />
 
+> **[StockFlow ERP](https://github.com/lauramorgadobastos/mini-erp-dotnet-react)** Sistema full-stack em monorepo com API em **.NET** e front-end em **React, TypeScript e Bootstrap** para gestão de produtos, movimentações de estoque, lançamentos financeiros e dashboard operacional. Conta com banco **MySQL**, Docker, *pipelines* de **CI/CD** no GitHub Actions e documentação técnica completa.
+
 >  **[Sistema de Gestão com AI (v1.0)](https://github.com/lauramorgadobastos/agenda-ia)**
 > Aplicação web fullstack integrada à **Google Gemini API** para assistência e automação inteligente no cadastro de dados. Conta com banco de dados **MySQL**, pipeline de **CI/CD via GitHub Actions** e documentação técnica completa.
 
@@ -64,7 +66,7 @@
 >  **[Estruturas de Dados: Listas, Pilhas e Filas](https://github.com/lauramorgadobastos/listas-pilhas-filas-csharp)**
 > Aplicação de conceitos de Orientação a Objetos e implementação de estruturas de dados (listas, pilhas e filas).
 
->  **[Sistema de Estacionamento Circular](LINK_DO_REPOSITORIO_ESTACIONAMENTO)**
+>  **[Sistema de Estacionamento Circular](https://github.com/lauramorgadobastos/estacionamento-lista-circular)**
 > Implementação prática e estruturada de TADs (Tipos Abstratos de Dados) e lógica avançada, simulando o controle dinâmico de vagas em um estacionamento com estrutura circular.
 
 >  **[Algoritmos e Técnicas de Programação (ATP)](https://github.com/lauramorgadobastos/algoritmos-e-tecnicas-de-programacao-puc)**
