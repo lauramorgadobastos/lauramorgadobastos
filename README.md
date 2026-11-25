@@ -6,14 +6,14 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=600&size=22&pause=1000&color=9C1FD2&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+seja+bem-vindo(a)!+Me+chamo+Laura;Sou+estudante+de+Sistemas+de+Informação;Obrigada+por+visitar+meu+perfil!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=600&size=22&pause=1000&color=9C1FD2&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+seja+bem-vindo(a)!+Me+chamo+Laura;Obrigada+por+visitar+meu+perfil!" alt="Typing SVG" />
   </a>
 </p>
 
 </div>
 
 <p align="center" >
- Estou cursando o segundo período, atualmente meu principal objetivo é construir uma base sólida na área de desenvolvimento de software, expandindo meu conhecimento lógico e prático. Para isso, estou dedicada a aprender novas tecnologias, praticar lógica e entender como aplicar a tecnologia na solução de problemas reais. Além disso, mais do que apenas escrever código, venho buscando desde cedo me atentar às boas práticas de engenharia de software organizando bem meus repositórios com Git Flow, documentando processos e explorando automações simples de CI/CD com GitHub Actions.
+Estudante de Sistemas de Informação, no 2º período. Estou aprendendo desenvolvimento de software na prática, com foco em front-end (React e TypeScript) e também em back-end (Node.js e C#). Costumo organizar meus repositórios com Git Flow, documentar o que faço e usar GitHub Actions para automações simples de CI/CD.
 
 </p>
 
@@ -29,25 +29,17 @@
   <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="Bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="NodeJS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="C#"  height="40" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
 <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<img align="center" alt="VSCode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-
  
 </div>
 </div>
 <br>
 
 <h2></h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lauramorgadobastos&show_icons=true&hide_border=true&title_color=9C1FD2&icon_color=9C1FD2&text_color=E6EDF3&bg_color=00000000&include_all_commits=true&count_private=false" height="170" alt="Estatísticas da Laura" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauramorgadobastos&hide_border=true&title_color=9C1FD2&text_color=E6EDF3&bg_color=00000000&layout=compact&hide=html,css" height="190" alt="Linguagens mais usadas" />
-</div>
 
 <!-- Animação -->
 <picture align="center">
@@ -56,20 +48,19 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lauramorgadobastosa/lauramorgadobastos/output/github-contribution-grid-snake.svg">
 </picture>
 
-<h3 align="left"> Projetos em Destaque</h3>
+<h3 align="left"> Projetos e aprendizados</h3>
 
 <br />
 
-> **[StockFlow ERP](https://github.com/lauramorgadobastos/mini-erp-dotnet-react)** Sistema full-stack com API em **.NET** e front-end em **React, TypeScript e Bootstrap** para gestão de produtos, movimentações de estoque, lançamentos financeiros e dashboard operacional. Conta com banco **MySQL**, Docker, *pipelines* de **CI/CD** no GitHub Actions e documentação técnica completa.
+> **[mini-erp-dotnet-react](https://github.com/lauramorgadobastos/mini-erp-dotnet-react)** Integração entre um back-end em C# e um front-end em React e TypeScript, com controle de estoque, movimentações e lançamentos financeiros, e ambiente rodando em Docker.
 
->  **[Sistema de Gestão com AI (v1.0)](https://github.com/lauramorgadobastos/agenda-ia)**
-> Aplicação web fullstack integrada à **Google Gemini API** para assistência e automação inteligente no cadastro de dados. Conta com banco de dados **MySQL**, pipeline de **CI/CD via GitHub Actions** e documentação técnica completa.
+>  **[agenda-ia](https://github.com/lauramorgadobastos/agenda-ia)** Uso da API do Google Gemini para transformar texto livre em agendamentos estruturados, salvos em um banco MySQL.
 
->  **[Torre de Hanói Interativa](https://github.com/lauramorgadobastos/torre-de-hanoi-python)**
-> Implementação interativa em linha de comando do clássico jogo de lógica e recursão. Utilizando Python, Pytest, GitHub Actions.
+>  **[torre-de-hanoi-python](https://github.com/lauramorgadobastos/torre-de-hanoi-python)** Prática de recursão e pilhas em Python, com a lógica validada por testes em Pytest.
 
 <!-- Contatos -->
 <br> 
+
 
 <div align="center">
 
