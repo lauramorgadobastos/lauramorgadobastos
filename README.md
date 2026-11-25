@@ -1,4 +1,5 @@
 <!-- Banner Inicial -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=6F00BB&section=header&reversal=false&fontAlign=41&fontAlignY=55" width="100%" />
 </p>
@@ -69,8 +70,13 @@
 
 <!-- Contatos -->
 <br> 
-<br> 
+
 <div align="center">
+
+<img width="100" alt="Perfil" src="https://github.com/user-attachments/assets/8f3b819a-f7a4-455a-afff-af0c9419505a" />
+
+
+<br> 
   
 [![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:laura.bastosmorgado27@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/laura-morgado-bastos?)
